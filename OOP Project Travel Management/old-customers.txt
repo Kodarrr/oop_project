@@ -1,0 +1,7 @@
+
+Customer Id: 1234
+Name: Hamim
+Age: 20
+Mobile No: 5468464
+Adress: khulna
+Gender :male
